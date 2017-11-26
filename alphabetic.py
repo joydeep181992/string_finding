@@ -1,3 +1,4 @@
+# given string s.
 s = 'abcdrhgirgabcvjdenjjklfeffgh'
 def keyfunc(t):
     i, c = t
