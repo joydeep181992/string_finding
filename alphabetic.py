@@ -1,5 +1,5 @@
 # given string s.
-s = 'abcdrhgirgabcvjdenjjklfeffgh'
+s = 'abcdrhgirgabcvjdenjjklfeffghdweq'
 
 #keyfunc function takes an arg which is passed in enumerate fun as tuple 
 def keyfunc(t):
