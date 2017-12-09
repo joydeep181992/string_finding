@@ -3,7 +3,7 @@
 s = 'abcdrhgirgabcvjdenjjklfeffghdweq'
 
 #keyfunc function takes an arg which is passed in enumerate fun as tuple 
-def keyfunc(t):
+def keyfun(t):
     i, c = t
     return ord(c) - i
 a = []
