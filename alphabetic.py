@@ -1,4 +1,5 @@
 # given string s.
+#on any input it will work which has a seq in alphabet
 s = 'abcdrhgirgabcvjdenjjklfeffghdweq'
 
 #keyfunc function takes an arg which is passed in enumerate fun as tuple 
