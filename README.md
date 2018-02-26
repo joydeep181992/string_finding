@@ -8,6 +8,3 @@ input: abcewejopqr
 
 output: ['abc','opqr']
 
-'test for learn'
-
-'my name is joydeep and this is my first code'
